@@ -19,4 +19,4 @@
 I am looking for new opportunities as a machine learning engineer. Please get in touch!
 <br>
 
-![Linkedin](linkedinsmall.png) https://www.linkedin.com/in/peggyemch/
+![Linkedin](linkedin30.png) https://www.linkedin.com/in/peggyemch/
