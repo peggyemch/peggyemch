@@ -11,9 +11,11 @@
 - UX
 - Artificial Intelligence
 - Business Intelligence
+- Programming Languages
+- Spanish
 - Rock climbing
 - Snowboarding
-- Swing Dancing
+- Salsa Dancing
 
 ## You get the idea. I don't get bored, I get busy. :runner:
 I am looking for new opportunities as a machine learning engineer. Please get in touch!
