@@ -1,4 +1,4 @@
-### Hi there. I'm Peggy.
+### Hi there. I'm Peggy. :heart:
 
 ## I have spent my life learning lots of things. To name a few...
 - Mathematics
@@ -15,8 +15,9 @@
 - Snowboarding
 - Swing Dancing
 
-## You get the idea. I don't get bored, I get busy.
+## You get the idea. I don't get bored, I get busy. :runner:
 
 I am looking for new opportunities as a machine learning engineer. Please get in touch!
 
-![](linkedin.png) https://www.linkedin.com/in/peggyemch/
+![(linkedin.png)][1] 
+[1]https://www.linkedin.com/in/peggyemch/
