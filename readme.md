@@ -10,8 +10,8 @@
 - Creative and Technical Writing
 - UX
 - Artificial Intelligence
-- Business Intelligence
-- Programming Languages
+- Business Analytics
+- Programming 
 - Spanish
 - Rock climbing
 - Snowboarding
