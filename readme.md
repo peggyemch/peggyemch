@@ -8,8 +8,8 @@
 - Music Composition
 - Sound Engineering
 - Creative and Technical Writing
-- Artificial Intelligence
 - UX
+- Artificial Intelligence
 - Business Intelligence
 - Rock climbing
 - Snowboarding
