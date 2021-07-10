@@ -19,5 +19,3 @@
 
 I am looking for new opportunities as a machine learning engineer. Please get in touch!
 ![Linkedin](linkedin.png) LinkedIn](https://www.linkedin.com/in/peggyemch/)
-[!(linkedin.png)][1] 
-[1]https://www.linkedin.com/in/peggyemch/
