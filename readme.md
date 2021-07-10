@@ -20,3 +20,6 @@ I am looking for new opportunities as a machine learning engineer. Please get in
 <br>
 
 ![Linkedin](linkedin30.png) https://www.linkedin.com/in/peggyemch/
+
+![LinkedIn](linkedin30.png)
+Format: ![LinkedIn](https://www.linkedin.com/in/peggyemch/)
