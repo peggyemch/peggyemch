@@ -1,6 +1,6 @@
-### Hi there. I'm Peggy. :wave:
+## Hi there. I'm Peggy. :wave:
 
-## I have spent my life learning lots of things. To name a few...
+### I have spent my life learning lots of things. To name a few...
 - Mathematics
 - Piano
 - Voice
