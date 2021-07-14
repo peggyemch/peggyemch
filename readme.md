@@ -3,8 +3,6 @@
 ### I have spent my life learning lots of things. To name a few...
 - Mathematics
 - Piano
-- Voice
-- Flute
 - Music Composition
 - Sound Engineering
 - Creative and Technical Writing
@@ -15,7 +13,6 @@
 - Spanish
 - Rock climbing
 - Snowboarding
-- Salsa Dancing
 
 ## You get the idea. I don't get bored, I get busy. :runner:
 I am looking for new opportunities as a machine learning engineer. Please get in touch!
