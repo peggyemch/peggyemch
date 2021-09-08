@@ -1,6 +1,6 @@
 ## Hi there. I'm Peggy. :wave:
 
-### I love to learn and I'm insatiably curious. Here are some things I've enjoyed getting good at:
+### I love to learn and I'm insatiably curious. Here are some things I've enjoyed sinking my teeth into:
 - Mathematics
 - Piano
 - Music Composition
