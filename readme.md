@@ -1,6 +1,6 @@
 ## Hi there. I'm Peggy. :wave:
 
-### I love to learn and I'm insatiably curious. Plus I really like to keep busy... :runner:
+### I love to learn and I'm insatiably curious. Here are some things I've enjoyed getting good at:
 - Mathematics
 - Piano
 - Music Composition
@@ -13,6 +13,8 @@
 - Spanish
 - Rock climbing
 - Snowboarding
+
+### Plus I really like to keep busy... :runner:
 
 I am looking for new opportunities as a machine learning engineer. Please get in touch!
 <br>
