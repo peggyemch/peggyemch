@@ -1,6 +1,6 @@
 ## Hi there. I'm Peggy. :wave:
 
-### I have spent my life learning lots of things. To name a few...
+### I love to learn and I'm insatiably curious. Plus I really like to keep busy... :runner:
 - Mathematics
 - Piano
 - Music Composition
@@ -14,7 +14,6 @@
 - Rock climbing
 - Snowboarding
 
-## You get the idea. I don't get bored, I get busy. :runner:
 I am looking for new opportunities as a machine learning engineer. Please get in touch!
 <br>
 
