@@ -16,7 +16,7 @@
 
 ### Plus I really like to keep busy... :runner:
 
-I am looking for new opportunities as a machine learning engineer. Please get in touch!
+I am looking for new opportunities within the data science/machine learning space. Please get in touch!
 <br>
 
 [![LinkedIn](linkedin30.png)](https://www.linkedin.com/in/peggyemch/)
