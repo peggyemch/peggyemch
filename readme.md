@@ -1,18 +1,16 @@
 ## Hi there. I'm Peggy. :wave:
 
-### I love to learn and I'm insatiably curious. Here are some things I've enjoyed sinking my teeth into:
+### I like keeping busy and I'm insatiably curious. Here are some things I've sunk my teeth into over the years:
 - Mathematics
-- Piano
+- Piano and flute
 - Music Composition
 - Sound Engineering
 - Creative and Technical Writing
 - UX
+- Marketing
 - Artificial Intelligence
 - Business Analytics
 - Programming 
 - Spanish
 - Rock climbing
 - Snowboarding
-
-### Plus I really like to keep busy... :runner:
-
